@@ -1,0 +1,97 @@
+@media only screen and (min-width:480px) and (max-width: 767px){
+ header{display: none;}
+ .logo-here img {    width: 30%;}
+ .mean-container a.meanmenu-reveal{    margin-top: -55px;}
+ .hilite-title strong{width: 100%; display: none;}
+ .about-section{padding: 45px 0px;}
+ .about-img img{display: none;}
+ .about-content {position: absolute;    right: 0;    bottom: -54px;    z-index: 9999;    padding: 0px 15px;}
+ .text-pop-up-top{top: 109px;}
+ section.our-prodcts {padding: 0 0 !important;}
+ .title-heading h2:before{display: none;}
+ .title-heading h2:after{display: none;}
+ .about2-content p {    padding-left: 15px;    padding-right: 15px;}
+ .about2-content a {    padding-left: 15px;}
+ .about2-content {    padding: 10px 0;}
+ .title-heading h2{    padding-bottom: 20px;}
+ .title-heading h3:before{display: none;}
+ .title-heading h3:after{display: none;}
+ .title-heading h3{    padding-bottom: 0;}
+ .title-heading h6:before{display: none;}
+ .title-heading h6:after{display: none;}
+ .title-heading h6{    padding-bottom: 0;}
+ .widget {    margin-bottom: 40px;}
+ .widget span:before{top: 12%; right: 86%;}
+ .last-widget span:before{    right: 86%;}
+ .call-to-action span{padding-left: 0; padding-right: 0;}
+ .common-banner{    padding: 45px 0px;}
+ .title-heading h1:before{display: none;}
+ .title-heading h1:after{display: none;}
+ .white-bg h1{    padding-bottom: 0;}
+ .about-img ul {    margin-left: 20px;}
+ .cover-product{width: 100%;margin-right: 0;}
+ .contact-detail{    margin-bottom: 20px;}
+ .our-three {width: 100%;}
+ .under-cover {    width: 100%;    float: left;}
+ .inner-box{width: 100%; float: left; margin-bottom: 12px;}
+ .our-presence-row {margin-bottom: 5px;}
+ .image-effect-two{    margin-bottom: 0;}
+ .full-width-section-about a {    margin-left: 15px;}
+ .blog-box img { height: auto; width: 100%;}
+ .color-tag-line p {  font-size: 25px;}
+ .blog-box {    margin-top: 14px;}
+ .title-heading h5:before{display: none;}
+ .title-heading h5:after{display: none;}
+}
+@media only screen and (max-width: 479px){
+
+	 header{display: none;}
+ .logo-here img {    width: 35%;}
+ .mean-container a.meanmenu-reveal{    margin-top: -55px;}
+ .hilite-title strong{width: 100%; display: none;}
+ .about-section{padding: 45px 0px 0px 0px;}
+ .about-img img{display: none;}
+ .about-content {position: absolute;    right: 0;    bottom: -54px;    z-index: 9999;    padding: 15px;}
+ .text-pop-up-top{top: 109px;}
+ section.our-prodcts {padding: 0 0 !important;}
+ .title-heading h2:before{display: none;}
+ .title-heading h2:after{display: none;}
+ .about2-content p {    padding-left: 15px;    padding-right: 15px;}
+ .about2-content a {    padding-left: 15px;}
+ .about2-content {    padding: 10px 0;}
+ .title-heading h2{    padding-bottom: 20px; font-size: 28px;}
+ .title-heading h3:before{display: none;}
+ .title-heading h3:after{display: none;}
+ .title-heading h3{    padding-bottom: 0;}
+ .title-heading h6:before{display: none;}
+ .title-heading h6:after{display: none;}
+ .title-heading h6{    padding-bottom: 0;  font-size: 26px;}
+ .widget {    margin-bottom: 40px;}
+ .widget span:before{top: 12%; right: 78%;}
+ .last-widget span:before{    right: 78%;}
+ .call-to-action span{padding-left: 0; padding-right: 0;}
+ .common-banner{    padding: 45px 0px;}
+ .title-heading h1:before{display: none;}
+ .title-heading h1:after{display: none;}
+ .white-bg h1{    padding-bottom: 0; font-size: 28px;}
+ .about-img ul {    margin-left: 20px;}
+ .cover-product{width: 100%;margin-right: 0;}
+ .contact-detail{    margin-bottom: 20px;}
+ .our-three {width: 100%;}
+ .under-cover {    width: 100%;    float: left;}
+ .inner-box{width: 100%; float: left; margin-bottom: 12px;}
+ .our-presence-row {margin-bottom: 5px;}
+ .image-effect-two{    margin-bottom: 0;}
+ .full-width-section-about a {    margin-left: 15px;}
+ .blog-box img { height: auto; width: 100%;}
+ .color-tag-line p {  font-size: 23px;}
+ .blog-box {    margin-top: 14px;}
+ .title-heading h5:before{display: none;}
+ .title-heading h5:after{display: none;}
+ .common-banner h1{    font-size: 29px;}
+ .details-product.detailed h2{font-size: 22px;}
+ .title-headingx h1{    font-size: 25px; padding-bottom: 0px;}
+}
+
+
+

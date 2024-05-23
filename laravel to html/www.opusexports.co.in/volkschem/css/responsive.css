@@ -1,0 +1,80 @@
+@media only screen and (min-width:991px) and (max-width:1199px)  {
+.mobile-menu {display: block !important; position: absolute; right: 140px;  top: -3px;}
+*.animated{animation-duration:inherit !important;}
+.reach-us i{font-size: 100% !important;}
+.home-address h4 { font-size: 28px;}
+.home-address p {word-break: break-all;}
+.cover-product{width: 100% !important;}
+form.theme-form-one h2{    padding: 0px 0 70px 6px !important; font-size: 16px !important;   line-height: 21px !important;}
+.kissan img{display: none;}
+.cutsom-caption p{    bottom: 100px !important;}
+#preloader{display: none !important;}
+}
+@media only screen and (min-width:768px) and (max-width: 990px){
+.mobile-menu {display: block !important; position: absolute; right: 30px;  top: -3px;}
+*.animated{animation-duration:inherit !important;}
+.reach-us i{font-size: 100% !important;}
+.home-address h4 { font-size: 28px;}
+.home-address p {word-break: break-all;}
+.cover-product{width: 100% !important;}
+form.theme-form-one h2{    padding: 0px 0 70px 6px !important; font-size: 16px !important;   line-height: 21px !important;}
+.kissan img{display: none;}
+.cutsom-caption p{    bottom: 50px !important; font-size: 37px !important;}
+#preloader{display: none !important;}
+}
+@media only screen and (min-width:480px) and (max-width: 767px){
+.mobile-menu {display: block !important; position: absolute; right: 30px;  top: -3px;}
+*.animated{animation-duration:inherit !important;}
+.reach-us i{font-size: 100% !important;}
+.home-address h4 { font-size: 28px;}
+.home-address p {word-break: break-all;}
+.cover-product{width: 100% !important;}
+form.theme-form-one h2{ padding: 0px 0 70px 6px !important; font-size: 40px !important; line-height: 21px !important;}
+.logo img {width: 30% !important; float: left;}
+.social-media ul { text-align: center;  margin-bottom: 12px;}
+.addres-header ul { float: left;  width: 100%; text-align: center; padding-bottom: 15px;}
+.form-side {margin-bottom: 22px;}
+.why-choose-us p { font-size: 32px !important;}
+.bg-image{padding-top: 100px !important; padding-bottom: 145px !important;}
+.our-three {padding-left: 40px;  padding-right: 40px;}
+.our-presence-row{    margin-bottom: 10px !important;}
+section.our-presence{    padding: 50px 0 0 0 !important;}
+.products-full-width p { padding-left: 20px;  padding-right: 20px;}
+.sitemap-list { padding-bottom: 30px;}
+.kissan img{display: none;}
+div#owl-demo .owl-buttons { display: none;}
+#sticky-social{top: 290px !important;}
+.overlay-content p {    font-size: 17px !important;    color: #fff;}
+}
+@media only screen and (max-width: 479px){
+.mobile-menu {display: block !important; position: absolute;  right: 20px;  top: 6px;}
+*.animated{animation-duration:inherit !important;}
+.reach-us i{font-size: 100% !important;}
+.home-address h4 { font-size: 28px;}
+.home-address p {word-break: break-all;}
+.cover-product{width: 100% !important; min-height: 200px !important;}
+form.theme-form-one h2{  padding: 0 0 70px 6px !important; font-size: 30px !important; line-height: 21px !important;}
+.logo img {width: 29% !important; float: left;}
+.social-media ul { text-align: center;  margin-bottom: 12px;}
+.addres-header ul { float: left;  width: 100%; text-align: center; padding-bottom: 15px;}
+.form-side {margin-bottom: 22px;}
+.why-choose-us p { font-size: 32px !important;}
+.bg-image{padding-top: 100px !important; padding-bottom: 145px !important;}
+.our-three {padding-left: 40px;  padding-right: 40px;}
+.our-presence-row{    margin-bottom: 10px !important;}
+section.our-presence{    padding: 50px 0 0 0 !important;}
+.products-full-width p { padding-left: 20px;  padding-right: 20px;}
+.sitemap-list { padding-bottom: 30px;}
+.social-media ul {display: none;}
+.sticky{padding-top: 15px !important; padding-bottom: 15px !important;}
+ul.social-icons li{    margin-right: 10px  !important;}
+.featured-service .overlay-box .text{display: none;}
+.featured-service .image-box .caption-box{padding: 15px 30px 15px 58px !important;}
+.home-address {padding-left: 35px; padding-right: 35px;}
+input.color-btn{width: 100% !important;}
+div#owl-demo .owl-buttons{display: none;}
+.kissan img{display: none;}
+div#owl-demo .owl-buttons { display: none;}
+.bredcrumb .middle li{    line-height: 0;}
+}
+
